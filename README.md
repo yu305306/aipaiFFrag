@@ -1,11 +1,11 @@
 # aipaiFFrag
-¸ĞĞ»flv.js µÄÌá¹©µÄË¼Â·¡£ffmpeg ºÏ³É ÊÇÈ«°áÀ´ÓÃµÄ¡£
+æ„Ÿè°¢flv.js çš„æä¾›çš„æ€è·¯ã€‚ffmpeg åˆæˆ æ˜¯å…¨æ¬æ¥ç”¨çš„ã€‚
 
-Ò»¸ö°ëÍê³É°æ±¾µÄ mp4 H5°æ±¾µÄ 
-Çëµ½http://www.aipai.com/ 
-ÔÚconsole  ÀïÃæÊäÈë 
-g.apm.cookies.setAipai("aipaipv", "true");  
-g.apm.cookies.setAipai("html5Video", "true");
-»òÕßÔÚ
-http://www.aipai.com/game_gameid-17599.html flash ÄÚ²¿Ñ¡Ôñ h5°æ±¾¡£
-½âÂë²»Ì«ÍêÉÆ ÓĞÊ±ºò»á³öÏÖ´íÎó¡£ 
+ä¸€ä¸ªåŠå®Œæˆç‰ˆæœ¬çš„ mp4 H5ç‰ˆæœ¬çš„ 
+#è¯·åˆ°http://www.aipai.com/ 
+åœ¨console  é‡Œé¢è¾“å…¥  </br> 
+g.apm.cookies.setAipai("aipaipv", "true");  </br>
+g.apm.cookies.setAipai("html5Video", "true");    </br>
+æˆ–è€…åœ¨</br>
+http://www.aipai.com/game_gameid-17599.html flash å†…éƒ¨é€‰æ‹© h5ç‰ˆæœ¬ã€‚</br>
+è§£ç ä¸å¤ªå®Œå–„ æœ‰æ—¶å€™ä¼šå‡ºç°é”™è¯¯ã€‚ 
